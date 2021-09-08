@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.alexcaban.proyectofinal.TabsActivity">
+    <!--<item
+        android:id="@+id/tab_cuenta"
+        android:icon="@drawable/ic_account_circle_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/action_cuenta"
+        app:showAsAction="never" />-->
+    <item
+        android:id="@+id/tab_producto"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:orderInCategory="100"
+        android:title="@string/action_producto"
+        app:showAsAction="never" />
+
+
+</menu>
